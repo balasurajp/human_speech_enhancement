@@ -164,8 +164,13 @@ We propose a two-block framework to suppress additive noises and unwanted freque
 
 
 # Results
+<audio controls>
+  <source src="audios/original_1.ogg" type="audio/ogg">
+  <source src="audios/original_1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-  original audio                       | processed audio          
+  Original Audio                       | Processed Audio          
   :-----------------------------------:|:-----------------------------------:
   ![](audios/original_1.mp3)           | ![](audios/processed_1.mp3)  
   ![](audios/original_2.mp3)           | ![](audios/processed_1.mp3)   
