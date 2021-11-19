@@ -164,14 +164,8 @@ We propose a two-block framework to suppress additive noises and unwanted freque
 
 
 # Results
-
-  Original Audio                       | Processed Audio          
-  :-----------------------------------:|:-----------------------------------:
-  ![](audios/original_1.mp3)           | ![](audios/processed_1.mp3)  
-  ![](audios/original_2.mp3)           | ![](audios/processed_1.mp3)   
-  ![](audios/original_3.mp3)           | ![](audios/processed_1.mp3) 
-
-<audio src="audios/original_3.mp3"> </audio>
+  
+  sample results can be found in `samples` directory. 
   
 # Conclusion 
 
