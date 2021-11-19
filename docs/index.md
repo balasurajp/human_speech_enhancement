@@ -171,11 +171,13 @@ We propose a two-block framework to suppress additive noises and unwanted freque
   ![](audios/original_2.mp3)           | ![](audios/processed_1.mp3)   
   ![](audios/original_3.mp3)           | ![](audios/processed_1.mp3) 
 
+<div>
 <audio controls>
   <source src="audios/original_3.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
-
+</div>
+  
 # Conclusion 
 
 To conclude, these techniques are limited to speech signals with only additive noises and unwanted frequencies with certain valid assumptions. In the future, this project can be extented to real-time processing techniques for noise cancellation.
