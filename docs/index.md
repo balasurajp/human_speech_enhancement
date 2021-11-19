@@ -155,21 +155,21 @@ We propose a two-block framework to suppress additive noises and unwanted freque
   </p>
 
   Original Signal            |  Processed Signal
-  ---------------------------|---------------------------  
+  :-------------------------:|:-------------------------:  
   ![](images/p0.png)         |  ![](images/p1.png)
 
   Original Spectrum          |  Processed Spectrum
-  ---------------------------|--------------------------- 
+  :-------------------------:|:-------------------------: 
   ![](images/p2.png)         |  ![](images/p3.png)
 
 
 # Results
 
-| original audio                       | processed audio          
-|:-------------------------------------|:-------------------------------------
-| ![](audios/original_1.mp3)           | ![](audios/processed_1.mp3)  
-| ![](audios/original_2.mp3)           | ![](audios/processed_1.mp3)   
-| ![](audios/original_3.mp3)           | ![](audios/processed_1.mp3) 
+  original audio                       | processed audio          
+  :-----------------------------------:|:-----------------------------------:
+  ![](audios/original_1.mp3)           | ![](audios/processed_1.mp3)  
+  ![](audios/original_2.mp3)           | ![](audios/processed_1.mp3)   
+  ![](audios/original_3.mp3)           | ![](audios/processed_1.mp3) 
 
 # Conclusion 
 
