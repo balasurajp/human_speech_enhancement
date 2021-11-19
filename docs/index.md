@@ -159,7 +159,6 @@ We propose a two-block framework to suppress additive noises and unwanted freque
   ![](images/p0.png)         |  ![](images/p1.png)
 
   Original Spectrum          |  Processed Spectrum
-  :-------------------------:|:-------------------------:  
   ![](images/p2.png)         |  ![](images/p3.png)
 
 
