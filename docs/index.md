@@ -154,7 +154,7 @@ We propose a two-block framework to suppress additive noises and unwanted freque
 
   ![Example_TDS](images/p1.png)
 
-  ![Example_FDS](images/p2.png images/p3.png)
+  ![Example_FDS](images/p2.png) ![Example_FDS](images/p3.png)
 
 
 # Results
