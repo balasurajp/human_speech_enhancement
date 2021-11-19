@@ -150,11 +150,11 @@ We propose a two-block framework to suppress additive noises and unwanted freque
   - The noise suppressed spectrum estimate is calculated by subtracting the noise spectrum from the actual spectrum through sliding window.
   - Finally, the processed spectrum is transformed into time domain using overlap-add method.
 
-  ![Process Pipeline](/images/process.png)
+  ![Process Pipeline](images/process.png)
 
-  ![Example_TDS](/images/p1.png)
+  ![Example_TDS](images/p1.png)
 
-  ![Example_FDS](/images/p2.png /images/p3.png)
+  ![Example_FDS](images/p2.png images/p3.png)
 
 
 # Results
