@@ -152,7 +152,9 @@ We propose a two-block framework to suppress additive noises and unwanted freque
 
   ![Process Pipeline](images/process.png)
 
-  ![Example_TDS](images/p1.png)
+  Original Signal            |  Processed Signal
+  :-------------------------:|:-------------------------:  
+  ![](images/p0.png)         |  ![](images/p1.png)
 
   Original Spectrum          |  Processed Spectrum
   :-------------------------:|:-------------------------:  
